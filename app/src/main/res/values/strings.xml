@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowDifferentPictures</string>
+    <string name="next_random">Next random</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
